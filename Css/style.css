@@ -1,0 +1,31 @@
+#carres{
+    position: absolute;
+    width: 95%;
+    height: 90%;
+    background-color: rgb(212, 209, 209);
+    border: 1em solid rgb(151, 150, 150);
+    margin-left: 1.5em;
+}
+#barre_vertical{
+    position: absolute;
+    left: 45.5%;
+    height: 100%;
+    width: 10%;
+    background-color: crimson;
+}
+#barre_horizontal{
+    position: absolute;
+    background-color: crimson;
+    width: 100%;
+    height: 15%;
+    top: 45%;
+}
+#personnage
+{
+    position: absolute;
+    height: 5%;
+    width: 5%;
+    top : 45%;
+    left: 48%;
+    
+}
